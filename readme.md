@@ -129,6 +129,6 @@ La página de Otoño [/cuando/otono/] es la única de las estaciones que tiene u
 
 #
 
-## Eliminar sidebar en páginas - 5pts
+## Eliminar sidebar en páginas - 2pts
 
 Eliminar el `sidebar` de las páginas (post type page). Es importante que el sidebar se muestre en otras secciones del sitio como las `Entradas` y las `Categorías`. No es necesario afectar ningún archivo PHP.
